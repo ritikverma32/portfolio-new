@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Developed and maintained dynamic web applications using HTML, CSS, and JavaScript. Utilized React Framework to streamline development and enhance code maintainability."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Designed, developed, and maintained server-side components. Implemented RESTful APIs and microservices architecture for seamless communication between frontend and backend systems."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Developed wireframes, interactive prototypes, and design mockups to communicate design concepts effectively to cross-functional teams. Collaborated closely with developers to ensure seamless implementation of design elements."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/myntra.png",
+      "title": "Myntra-clone",
+      "description": "Made Homepage of myntra site using HTML and CSS.",
+      "link": "View In Github "
+    },
+    {
+      "id": "2",
+      "src": "./img/spotify.png",
+      "title": "Spotify-homepage",
+      "description": "Homepage of a music player site",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/flipkart.png",
+      "title": "Flipkart-homepage",
+      "description": "I have tried to copy the homepage of flipkart with the help of pure html and css.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/sanjeev1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Sanjeev Kumar",
+      "author_designation": "DRDO"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/anubhav1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Anubhav Prakash",
+      "author_designation": "Laxmi Chit Fund"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/anand1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Anand Kumar",
+      "author_designation": "LTIMindtree"
+    }
+  ]
+}
